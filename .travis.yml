@@ -1,5 +1,3 @@
-# write
-
 os: linux
 dist: focal
 language: shell
