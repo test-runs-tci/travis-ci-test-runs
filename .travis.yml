@@ -2,4 +2,4 @@ os: linux
 dist: focal
 language: shell
 install: skip
-script: sleep 1
+script: sleep 2
